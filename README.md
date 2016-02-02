@@ -12,12 +12,6 @@
 |[![Build Status]()|[![Build Status](http://45.56.80.45:8080/buildStatus/icon?job=daily-build-v3/node=ios)]
 
 
-
-cocos2d-x
-	iOS 	Mac 	Linux 	Win32 	Android 	Win8.1-Universal
-v3 	Build Status 	Build Status 	Build Status 	Build Status 	Build Status 	Build Status
-v4 	Build Status 	Build Status 	Build Status 	Build Status 	Build Status 	Build Status
-
 cocos2d-x is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone and Store Apps, OS X, Windows, Linux and Web platforms.
 
 Cocos2d-x Framework Architecture:
